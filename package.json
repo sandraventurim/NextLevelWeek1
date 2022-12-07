@@ -8,7 +8,7 @@
     "url": "git+https://github.com/sandraventurim/NextLevelWeek1.git"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.4",
     "nunjucks": "^3.2.1",
     "sqlite": "^4.0.10",
